@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ziad and I'm glad that I've joint GitHub community.
+- 👋 Hi, I’m Ziad and I'm glad that I've joind GitHub community.
 - 👀 I’m interested in ... cloud computing, coding, Linux and Database
 - 🌱 I’m currently learning ...Microsoft Azure Architecture
 - 💞️ I’m looking to collaborate on ...anything that help me and others to gain useful knowledge
